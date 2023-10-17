@@ -1,0 +1,31 @@
+body {
+    background: url('default-background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+  }
+  .overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+    color: aquamarine;
+  }
+  p {
+    font-size: 18px;
+    margin-top: 0;
+    color: burlywood;
+  }
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(68, 205, 50);
+    color: #000;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+  }
